@@ -49,10 +49,10 @@ Block 1201 to 2100
 Block 1801 to 2700
 	200 TRON
 
-Block 2401 to 3300
+Block 2401 to 3400
 	100 TRON
 
-Proof of Work rejected after block 3300
+Proof of Work rejected after block 3400
 
 
 Total approx potential coins from POW: 900,000, lower with mixed POS at block 2700. 3 days mining.
