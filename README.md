@@ -34,22 +34,22 @@ Block Reward Schedule - Proof of Work Phase
 Block 1 to 100
     0 TRON - ANTI INSTAMINE - (sha256 diff adjustment period)
 
-Block 101 to 600
+Block 101 to 700
     500 TRON
 	
-Block 301 to 900
+Block 701 to 1000
 	450 TRON
 
-Block 601 to 1500
+Block 1001 to 1600
 	400 TRON
 
-Block 1201 to 2100
+Block 1601 to 2200
 	300 TRON
 
-Block 1801 to 2700
+Block 2201 to 2800
 	200 TRON
 
-Block 2401 to 3400
+Block 2801 to 3400
 	100 TRON
 
 Proof of Work rejected after block 3400
@@ -60,9 +60,11 @@ Total approx potential coins from POW: 900,000, lower with mixed POS at block 27
 
 
 
+
+
 Block Reward Schedule - Dynamic Proof of Stake Phase
 -------------------------------------------
-Block 2500 to 4000
+Block 2700 to 4000
 	20 TRON
 	+30000 total
 	
